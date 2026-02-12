@@ -15,6 +15,8 @@
 I am a "safety-first" engineer who maintains an Active Security Clearance and a disciplined approach to project lifecycles, ensuring all designs meet rigorous quality control and regulatory standards</p>
 
 
+<h2>Please read the Portfolio File to learn more about my specific projects and technical analyses.</h2>
+
 <h2> 🤳 Connect with me:</h2>
 
 [<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
