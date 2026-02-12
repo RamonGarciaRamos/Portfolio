@@ -1,4 +1,4 @@
-<h1>Hi, I'm Ramon Garcia Ramos! <br/><a href="https://github.com/RamonGarciaRamos">Mechanical  Engineering Student</a></h1>
+<h1>Ramon Garcia Ramos Mechanical Engineering Student</h1>
 
 <p>I am a Mechanical Engineering student at Kennesaw State University (graduating May 2026) focused on bridging high-fidelity mechanical design with systems-level execution. My technical background is anchored by seven SolidWorks certifications, including Professional-level credentials in Drawing Tools and Mold Making, alongside proficiency in Siemens NX, ANSYS, and FEA. I specialize in translating complex conceptual architectures into functional, manufacturing-ready products through a combination of traditional engineering principles and modern additive manufacturing.
 
