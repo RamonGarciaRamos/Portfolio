@@ -15,7 +15,7 @@
 I am a "safety-first" engineer who maintains an Active Security Clearance and a disciplined approach to project lifecycles, ensuring all designs meet rigorous quality control and regulatory standards</p>
 
 
-Please read the [Portfolio File](https://github.com/RamonGarciaRamos/RamonGarciaRamos/blob/main/Engineering%20Portfolio.pdf) to learn more about my specific projects and technical analyses.
+Please read the Engineering Porfolio FIle to learn more about my specific projects and technical analyses.
 
 <h2> 🤳 Connect with me:</h2>
 
